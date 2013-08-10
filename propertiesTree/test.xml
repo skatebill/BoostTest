@@ -1,0 +1,7 @@
+<conf>
+	<gui>1</gui>
+	<theme>martix</theme>
+	<urls>
+		<url>www.baidu.com</url>
+	</urls>
+</conf>

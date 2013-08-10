@@ -1,0 +1,10 @@
+conf "\n	\n	\n	\n"
+{
+    gui 1
+    theme martix
+    urls "\n		\n	"
+    {
+        url www.baidu.com
+        url www.sina.com.cn
+    }
+}
